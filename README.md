@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Raeesa
 
-<!--
-**raeesa2627/raeesa2627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend Developer & AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🧠 Explore Artificial Intelligence & Machine Learning
+- 💻 Build Web Applications using MERN Stack
+- 🤖 Develop AI & ML Projects
+- 🎯 Learning Data Structures & Algorithms
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Raeesa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raeesa2627&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raeesa2627&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/raeesa2627
+- LinkedIn: https://www.linkedin.com/in/raeesa-tanweer-a-7326b3355/
